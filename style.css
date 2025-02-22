@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, orange, purple);
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth; 
+}
+
+    
+
+.content{
+    
+margin-top: 30px;
+
+}
+.project-card{
+    
+    width: 23em;
+}
+.info .content .icon i{
+    font: size 100px;
+}
+.info{
+    width: 200px;
+    height: 100px;
+}
